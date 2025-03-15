@@ -1,5 +1,5 @@
 import React from "react";
-import { Header } from "../ui/header";
+import { Header } from "../ui/Header";
 import Sidebar from "../ui/Sidebar";
 import { AppShell } from "@mantine/core";
 import { useDisclosure } from "@mantine/hooks";
